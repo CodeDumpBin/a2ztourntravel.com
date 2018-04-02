@@ -36,7 +36,7 @@
 
         <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 padding-right0">
          <h3 style="min-height:80px;margin-top:50px;">Mukteshwar Shiv Mandir (350years Old) </h3>
-         <div> <img src="images/gallery/5.jpg" alt="" class="showOverlay showOverlay4"/> </div>
+         <div> <img src="images/gallery/8.jpg" alt="" class="showOverlay showOverlay4"/> </div>
         </div>
 
         <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 padding-right0">
