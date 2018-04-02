@@ -48,5 +48,5 @@ $LINKEDIN_LINK="";
 $TWITTER_LINK="";
 $GOOGLE_MAP_LINK="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d27812.35419749552!2d79.43776110071389!3d29.383630151001903!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39a0a1bc28fd9d61%3A0x7cae7ba916987db3!2sNainital%2C+Uttarakhand!5e0!3m2!1sen!2sin!4v1506711759758";
 
-$FOOTER_DEVELOPER_LINK='<p>© A2ZTourNTravel , All Rights Reserved.  Developed and Managed by <a href="http://www.qubits.in/" target="_blank">Qubits IT Services</a> </p>';
+$FOOTER_DEVELOPER_LINK='<p>© A2ZTourNTravel , All Rights Reserved.  Developed and Managed by <a href="http://qubits.in/" target="_blank">Qubits IT Services</a> </p>';
 ?>
