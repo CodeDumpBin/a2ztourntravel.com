@@ -117,10 +117,10 @@
       <ul class="nav-collapse">
         <li> <a <?php if($page=="index.php") echo 'class="active"'; ?>  href="index.php">HOME</a></li>
         <li> <a <?php if($page=="about.php") echo 'class="active"'; ?> href="about.php">ABOUT</a></li>
-        <li> <a <?php if($page=="services.php") echo 'class="active"'; ?> href="services.php">OUR SERVICES </a>
+        <li> <a <?php if($page=="services.php") echo 'class="active"'; ?> href="services.php">PACKAGES </a>
         </li>
         <li> <a <?php if($page=="gallery.php") echo 'class="active"'; ?> href="gallery.php">GALLERY</a></li>
-        <li> <a <?php if($page=="branches.php") echo 'class="active"'; ?> href="branches.php">BRANCHES</a></li>
+
         <li> <a <?php if($page=="contact.php") echo 'class="active"'; ?> href="contact.php">CONTACT</a></li>
       </ul>
     </nav>

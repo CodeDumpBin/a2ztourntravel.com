@@ -19,24 +19,17 @@
        <div class="tz-infomation-website">
                         <h3 class="tz-title-contact">ADDRESS</h3>
                         <address>
-                            Lorem ipsum dolor sit amet, consectetur  <br>
-                            simply dummy text<br>
-                            Lorem Ipsum is <br>
-                            simply dummy text
-                        </address>
-                        
-                        <h3 class="tz-title-contact">Alternate Address</h3>
-                        <address>
-                            Lorem Ipsum is <br>
-                            simply dummy text<br>
-                            Lorem Ipsum is <br>
-                            simply dummy text
+                            Nariman chauraha, Kathgodam <br>
+			    District Nainital  <br>
+			    263126  
                         </address>
                         <h3 class="tz-title-contact">CONTACT</h3>
                         <ul>
-                            <li>Phone: +91 123456789</li>
-                            <li>Fax: +91 123456789</li>
-                            <li>Email: info@gmail.com</li>
+                            <li>Phone 1: +91 7579140023</li>
+                            <li>Phone 2: +91 7579140024</li>
+                            <li>Phone 3: +91 7579140025</li>
+                            <li>Phone 4: +91 9412085347</li>
+                            <li>Email: A2z.kgm@gmail.com</li>
                             <li>Web: http://www.a2ztourntravel.com</li>
                         </ul>
                     </div>

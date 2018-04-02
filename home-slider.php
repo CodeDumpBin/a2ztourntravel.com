@@ -10,7 +10,7 @@
           <div class="tp-caption large_bold_white sfb tp-resizeme  title-slider-blod"
                              data-x="center" data-hoffset="0"
                              data-y="center" data-voffset="-40"
-                            >Nainital, The City of Lakes </div>
+                            >A 2 Z TOUR AND TRAVELS,UTTARAKHAND </div>
           <!-- LAYER NR. 2 -->
           
         </li>

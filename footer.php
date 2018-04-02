@@ -82,7 +82,7 @@
               <?php echo $PHONE_1; ?>
               <?php echo $MOBILE_1; ?> 
               <?php echo $PHONE_2; ?>
-              <?php echo $MOBILE_32; ?> 
+              <?php echo $MOBILE_2; ?> 
           
             <span class="tzwidget-social"> <a href="<?php echo $FACEBOOK_LINK; ?>"><i class="fa fa-facebook"></i></a> <a href="<?php echo $GOOGLE_PLUS_LINK; ?>"><i class="fa fa-google-plus"></i></a> <a href="<?php echo $LINKEDIN_LINK; ?>"><i class="fa fa-linkedin"></i></a> <a href="<?php echo $TWITTER_LINK; ?>"><i class="fa fa-twitter"></i></a> </span> </div>
         </div>
@@ -93,7 +93,6 @@
             <li><a href="about.php">About </a></li>
             <li><a href="services.php">Our Services </a></li>
             <li><a href="gallery.php">Gallery </a></li>
-            <li> <a href="branches.php">Branches</a></li>
             <li><a href="contact.php">Contact </a></li>
           </ul>
         </div>
